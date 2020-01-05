@@ -1,0 +1,5 @@
+Install Python
+Install openCV2
+Install tesseract-ocr-w64-setup-v5.0.0-alpha.20190623(application)
+Install pytesseract
+Install PILL, Image

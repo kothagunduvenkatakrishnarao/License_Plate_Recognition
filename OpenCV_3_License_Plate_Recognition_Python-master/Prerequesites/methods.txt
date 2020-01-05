@@ -1,0 +1,4 @@
+After extracting the license plate image from original image, text is extracted in 2 ways :
+	1. Using KNN
+	
+	2.Simply performing OCR using Tesseract OCR engine
